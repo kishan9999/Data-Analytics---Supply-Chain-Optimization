@@ -10,19 +10,19 @@ This project focuses on making supply chain operations more efficient by using d
 ![Supply Chain Optimization](https://example.com/supply-chain-optimization.png)
 
 **Key Features:**
-- **Better Inventory Management:** We'll use data to predict how much stock we need, so we don't have too much or too little, saving money and avoiding shortages.
+**Better Inventory Management:** We'll use data to predict how much stock we need, so we don't have too much or too little, saving money and avoiding shortages.
   
   ![Inventory Management](https://example.com/inventory-management.png)
   
-- **Saving Money:** By analyzing the supply chain, we'll find ways to save money on things like shipping and storage.
+**Saving Money:** By analyzing the supply chain, we'll find ways to save money on things like shipping and storage.
   
   ![Cost Savings](https://example.com/cost-savings.png)
   
-- **Faster Deliveries:** We'll figure out where things are getting stuck in the delivery process and make improvements so things get to their destination quicker.
+**Faster Deliveries:** We'll figure out where things are getting stuck in the delivery process and make improvements so things get to their destination quicker.
   
   ![Delivery Time Improvement](https://example.com/delivery-time-improvement.png)
   
-- **Easy-to-Understand Reports:** We'll create simple reports and graphs to show what's going on in the supply chain, making it easier for everyone to understand.
+**Easy-to-Understand Reports:** We'll create simple reports and graphs to show what's going on in the supply chain, making it easier for everyone to understand.
   
   ![Reports](https://example.com/reports.png)
 
